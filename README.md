@@ -16,4 +16,13 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/nataraj2027/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1859-sorting-the-sentence](https://github.com/nataraj2027/Leetcode/tree/master/1859-sorting-the-sentence) |
+## Sorting
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/nataraj2027/Leetcode/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/nataraj2027/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
