@@ -7,6 +7,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nataraj2027/Leetcode/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
@@ -42,5 +43,14 @@ Problems Solved by me..!!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
