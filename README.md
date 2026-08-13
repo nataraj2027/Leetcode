@@ -14,11 +14,13 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nataraj2027/Leetcode/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/nataraj2027/Leetcode/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/nataraj2027/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1859-sorting-the-sentence](https://github.com/nataraj2027/Leetcode/tree/master/1859-sorting-the-sentence) |
@@ -39,6 +41,7 @@ Problems Solved by me..!!
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
