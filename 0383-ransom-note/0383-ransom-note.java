@@ -1,24 +1,18 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
-        
-        HashMap<Character, Integer> dictionary = new HashMap<>();
 
-        for (int i = 0; i < magazine.length(); i++) {
-            char c = magazine.charAt(i);
+        int[] count = new int[26];
 
-            if (!dictionary.containsKey(c)) {
-                dictionary.put(c, 1);
-            } else {
-                dictionary.put(c, dictionary.get(c) + 1);
-            }
+        // Count letters available in magazine
+        for (char c : magazine.toCharArray()) {
+            count[c - 'a']++;
         }
 
-        for (int i = 0; i < ransomNote.length(); i++) {
-            char c = ransomNote.charAt(i);
+        // Use those letters for ransomNote
+        for (char c : ransomNote.toCharArray()) {
+            count[c - 'a']--;
 
-            if (dictionary.containsKey(c) && dictionary.get(c) > 0) {
-                dictionary.put(c, dictionary.get(c) - 1);
-            } else {
+            if (count[c - 'a'] < 0) {
                 return false;
             }
         }
