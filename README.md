@@ -12,6 +12,7 @@ Problems Solved by me..!!
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nataraj2027/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2733-neither-minimum-nor-maximum](https://github.com/nataraj2027/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Problems Solved by me..!!
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/nataraj2027/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [2733-neither-minimum-nor-maximum](https://github.com/nataraj2027/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Bubble Sort
 |  |
 | ------- |
