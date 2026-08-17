@@ -13,6 +13,7 @@ Problems Solved by me..!!
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nataraj2027/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/nataraj2027/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2733-neither-minimum-nor-maximum](https://github.com/nataraj2027/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/nataraj2027/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +77,8 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nataraj2027/Leetcode/tree/master/0066-plus-one) |
+## Matrix
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/nataraj2027/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
