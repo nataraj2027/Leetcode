@@ -15,6 +15,7 @@ Problems Solved by me..!!
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nataraj2027/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/nataraj2027/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2733-neither-minimum-nor-maximum](https://github.com/nataraj2027/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/nataraj2027/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nataraj2027/Leetcode/tree/master/0066-plus-one) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/nataraj2027/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
