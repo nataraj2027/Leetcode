@@ -11,6 +11,7 @@ Problems Solved by me..!!
 | [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
+| [1748-sum-of-unique-elements](https://github.com/nataraj2027/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nataraj2027/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/nataraj2027/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -27,6 +28,7 @@ Problems Solved by me..!!
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/nataraj2027/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1748-sum-of-unique-elements](https://github.com/nataraj2027/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nataraj2027/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
@@ -56,6 +58,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
+| [1748-sum-of-unique-elements](https://github.com/nataraj2027/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nataraj2027/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nataraj2027/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
