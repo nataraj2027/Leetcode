@@ -33,6 +33,7 @@ Problems Solved by me..!!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/nataraj2027/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -112,4 +113,8 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nataraj2027/Leetcode/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
