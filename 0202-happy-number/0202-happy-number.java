@@ -1,27 +1,20 @@
 class Solution {
     public boolean isHappy(int n) {
-        Set<Integer> visit = new HashSet<>();
-        
-        while (!visit.contains(n)) {
-            visit.add(n);
-            n = getNextNumber(n);
-            if (n == 1) {
-                return true;
+        if(n==1||n==7){
+            return true;
+        }
+        else if(n<10){
+            return false;
+        }
+        else{
+            int l = 0;
+            while(n>0){
+                int m = n%10;
+                l = l+(m*m);
+                n = n/10;
             }
+            return isHappy(l);
         }
         
-        return false;
-    }
-
-    private int getNextNumber(int n) {
-        int output = 0;
-        
-        while (n > 0) {
-            int digit = n % 10;
-            output += digit * digit;
-            n = n / 10;
-        }
-        
-        return output;
     }
 }
