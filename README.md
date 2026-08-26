@@ -7,6 +7,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nataraj2027/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nataraj2027/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nataraj2027/Leetcode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -29,6 +30,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nataraj2027/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
@@ -40,6 +42,7 @@ Problems Solved by me..!!
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
@@ -51,6 +54,7 @@ Problems Solved by me..!!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/nataraj2027/Leetcode/tree/master/1859-sorting-the-sentence) |
