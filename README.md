@@ -11,6 +11,7 @@ Problems Solved by me..!!
 | [0066-plus-one](https://github.com/nataraj2027/Leetcode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nataraj2027/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/nataraj2027/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
 | [1324-print-words-vertically](https://github.com/nataraj2027/Leetcode/tree/master/1324-print-words-vertically) |
@@ -31,6 +32,7 @@ Problems Solved by me..!!
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/nataraj2027/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/nataraj2027/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/nataraj2027/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nataraj2027/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -82,6 +84,7 @@ Problems Solved by me..!!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nataraj2027/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/nataraj2027/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/nataraj2027/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3028-ant-on-the-boundary](https://github.com/nataraj2027/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Stack
