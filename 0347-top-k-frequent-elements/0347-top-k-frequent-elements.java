@@ -1,45 +1,40 @@
-import java.util.*;
-
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int[] res = new int[k];
-        int count = 0;
+        Map <Integer, Integer> map = new HashMap<>();
+        List <Integer> lst = new ArrayList();
 
-        // Count frequencies
-        for (int i = 0; i < nums.length; i++) {
+        for(int n : nums)
+            map.put(n, map.getOrDefault(n , 0) + 1);
 
-            if (map.containsKey(nums[i])) {
-                map.put(nums[i], map.get(nums[i]) + 1);
-            } else {
-                map.put(nums[i], 1);
-            }
+       List <Map.Entry<Integer, Integer>> mapLst = new ArrayList<>(map.entrySet());
+        mapLst.sort(Map.Entry.<Integer, Integer> comparingByValue().reversed()); 
+
+        int counter = 0;
+
+        for(Map.Entry<Integer, Integer> e : mapLst){
+
+            if(counter != k){
+
+                int key = e.getKey();
+                lst.add(key);
+                counter++;
+            }  
+
+            else break;          
         }
 
-        // Find top k frequent elements
-        for (int i = 0; i < k; i++) {
 
-            int max = Integer.MIN_VALUE;
-            int maxKey = 0;
+        int[] arr = new int[lst.size()];
+        int idx = 0;
 
-            // Find the key having maximum frequency
-            for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+        for(int n : lst){
 
-                if (entry.getValue() > max) {
-                    max = entry.getValue();
-                    maxKey = entry.getKey();
-                }
-            }
-
-            // Store the element (not the frequency)
-            res[count] = maxKey;
-            count++;
-
-            // Remove it so that next maximum can be found
-            map.remove(maxKey);
+            arr[idx] = n;
+            idx++;
         }
 
-        return res;
+        return arr;
+        
     }
 }
