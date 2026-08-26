@@ -7,6 +7,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nataraj2027/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/nataraj2027/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nataraj2027/Leetcode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -109,6 +110,7 @@ Problems Solved by me..!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nataraj2027/Leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/nataraj2027/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -127,4 +129,8 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nataraj2027/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
