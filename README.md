@@ -12,6 +12,7 @@ Problems Solved by me..!!
 | [0066-plus-one](https://github.com/nataraj2027/Leetcode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nataraj2027/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/nataraj2027/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
@@ -34,6 +35,7 @@ Problems Solved by me..!!
 | [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/nataraj2027/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -59,6 +61,7 @@ Problems Solved by me..!!
 | ------- |
 | [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/nataraj2027/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/nataraj2027/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -75,6 +78,7 @@ Problems Solved by me..!!
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/nataraj2027/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -151,4 +155,17 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nataraj2027/Leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
