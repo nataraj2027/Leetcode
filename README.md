@@ -13,6 +13,7 @@ Problems Solved by me..!!
 | [0066-plus-one](https://github.com/nataraj2027/Leetcode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/nataraj2027/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nataraj2027/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/nataraj2027/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/nataraj2027/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -150,6 +151,7 @@ Problems Solved by me..!!
 | [0011-container-with-most-water](https://github.com/nataraj2027/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/nataraj2027/Leetcode/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
