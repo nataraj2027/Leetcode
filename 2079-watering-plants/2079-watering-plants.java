@@ -1,19 +1,24 @@
 class Solution {
     public int wateringPlants(int[] plants, int capacity) {
+
+        int water = capacity;
         int steps = 0;
-        int orgcapacity = capacity;
-        for(int i = 0; i < plants.length; i++){
-            if(plants[i] <=  capacity){
-                capacity -= plants[i];
-                steps ++;
+
+        for (int i = 0; i < plants.length; i++) {
+
+            // Agar current plant ke liye water kam hai
+            if (water < plants[i]) {
+                steps += i * 2; // River par wapas + current plant tak
+                water = capacity;
             }
-            else{
-                steps +=i;
-                capacity = orgcapacity;
-                steps += i+1;
-                capacity -= plants[i];
-            }
+
+            // Current plant par ek step
+            steps++;
+
+            // Water the plant
+            water -= plants[i];
         }
+
         return steps;
     }
 }
