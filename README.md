@@ -24,6 +24,7 @@ Problems Solved by me..!!
 | [1748-sum-of-unique-elements](https://github.com/nataraj2027/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nataraj2027/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2079-watering-plants](https://github.com/nataraj2027/Leetcode/tree/master/2079-watering-plants) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/nataraj2027/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nataraj2027/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/nataraj2027/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -134,6 +135,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [1324-print-words-vertically](https://github.com/nataraj2027/Leetcode/tree/master/1324-print-words-vertically) |
+| [2079-watering-plants](https://github.com/nataraj2027/Leetcode/tree/master/2079-watering-plants) |
 | [3028-ant-on-the-boundary](https://github.com/nataraj2027/Leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Dynamic Programming
 |  |
