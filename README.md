@@ -123,6 +123,7 @@ Problems Solved by me..!!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/nataraj2027/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/nataraj2027/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -193,4 +194,8 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/nataraj2027/Leetcode/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nataraj2027/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
