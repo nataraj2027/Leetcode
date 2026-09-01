@@ -59,6 +59,7 @@ Problems Solved by me..!!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nataraj2027/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/nataraj2027/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
@@ -125,6 +126,7 @@ Problems Solved by me..!!
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/nataraj2027/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/nataraj2027/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/nataraj2027/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/nataraj2027/Leetcode/tree/master/0682-baseball-game) |
