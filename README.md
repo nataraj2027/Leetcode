@@ -65,6 +65,7 @@ Problems Solved by me..!!
 | [0394-decode-string](https://github.com/nataraj2027/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/nataraj2027/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nataraj2027/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1324-print-words-vertically](https://github.com/nataraj2027/Leetcode/tree/master/1324-print-words-vertically) |
 | [1859-sorting-the-sentence](https://github.com/nataraj2027/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/nataraj2027/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -128,6 +129,7 @@ Problems Solved by me..!!
 | [0394-decode-string](https://github.com/nataraj2027/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/nataraj2027/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nataraj2027/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
