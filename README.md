@@ -22,6 +22,7 @@ Problems Solved by me..!!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nataraj2027/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nataraj2027/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/nataraj2027/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
 | [1324-print-words-vertically](https://github.com/nataraj2027/Leetcode/tree/master/1324-print-words-vertically) |
 | [1748-sum-of-unique-elements](https://github.com/nataraj2027/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -125,6 +126,7 @@ Problems Solved by me..!!
 | ------- |
 | [0155-min-stack](https://github.com/nataraj2027/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/nataraj2027/Leetcode/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/nataraj2027/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -145,6 +147,7 @@ Problems Solved by me..!!
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/nataraj2027/Leetcode/tree/master/0682-baseball-game) |
 | [1324-print-words-vertically](https://github.com/nataraj2027/Leetcode/tree/master/1324-print-words-vertically) |
 | [2079-watering-plants](https://github.com/nataraj2027/Leetcode/tree/master/2079-watering-plants) |
 | [3028-ant-on-the-boundary](https://github.com/nataraj2027/Leetcode/tree/master/3028-ant-on-the-boundary) |
