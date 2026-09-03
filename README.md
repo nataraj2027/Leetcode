@@ -20,6 +20,7 @@ Problems Solved by me..!!
 | [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/nataraj2027/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nataraj2027/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/nataraj2027/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/nataraj2027/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nataraj2027/Leetcode/tree/master/0682-baseball-game) |
@@ -129,12 +130,14 @@ Problems Solved by me..!!
 | [0071-simplify-path](https://github.com/nataraj2027/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/nataraj2027/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/nataraj2027/Leetcode/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/nataraj2027/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/nataraj2027/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nataraj2027/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/nataraj2027/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
