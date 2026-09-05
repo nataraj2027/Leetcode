@@ -26,6 +26,7 @@ Problems Solved by me..!!
 | [0643-maximum-average-subarray-i](https://github.com/nataraj2027/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/nataraj2027/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/nataraj2027/Leetcode/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/nataraj2027/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1324-print-words-vertically](https://github.com/nataraj2027/Leetcode/tree/master/1324-print-words-vertically) |
 | [1748-sum-of-unique-elements](https://github.com/nataraj2027/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -80,6 +81,7 @@ Problems Solved by me..!!
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/nataraj2027/Leetcode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/nataraj2027/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/nataraj2027/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/nataraj2027/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2733-neither-minimum-nor-maximum](https://github.com/nataraj2027/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -182,6 +184,7 @@ Problems Solved by me..!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nataraj2027/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nataraj2027/Leetcode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/nataraj2027/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
