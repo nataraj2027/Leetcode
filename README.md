@@ -8,6 +8,7 @@ Problems Solved by me..!!
 | ------- |
 | [0001-two-sum](https://github.com/nataraj2027/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nataraj2027/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nataraj2027/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nataraj2027/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nataraj2027/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
@@ -78,6 +79,7 @@ Problems Solved by me..!!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nataraj2027/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -182,6 +184,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nataraj2027/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nataraj2027/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nataraj2027/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
