@@ -136,6 +136,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/nataraj2027/Leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nataraj2027/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/nataraj2027/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/nataraj2027/Leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/nataraj2027/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -220,4 +221,16 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nataraj2027/Leetcode/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nataraj2027/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nataraj2027/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nataraj2027/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
