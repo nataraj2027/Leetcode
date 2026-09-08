@@ -154,6 +154,7 @@ Problems Solved by me..!!
 | [0066-plus-one](https://github.com/nataraj2027/Leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/nataraj2027/Leetcode/tree/master/0509-fibonacci-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/nataraj2027/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nataraj2027/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nataraj2027/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Matrix
