@@ -70,6 +70,7 @@ Problems Solved by me..!!
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/nataraj2027/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/nataraj2027/Leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/nataraj2027/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/nataraj2027/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nataraj2027/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
