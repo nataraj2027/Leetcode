@@ -52,6 +52,7 @@ Problems Solved by me..!!
 | [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/nataraj2027/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/nataraj2027/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
@@ -70,6 +71,7 @@ Problems Solved by me..!!
 | [0071-simplify-path](https://github.com/nataraj2027/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/nataraj2027/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/nataraj2027/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/nataraj2027/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/nataraj2027/Leetcode/tree/master/0409-longest-palindrome) |
