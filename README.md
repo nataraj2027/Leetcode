@@ -11,6 +11,7 @@ Problems Solved by me..!!
 | [0015-3sum](https://github.com/nataraj2027/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nataraj2027/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nataraj2027/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/nataraj2027/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nataraj2027/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nataraj2027/Leetcode/tree/master/0066-plus-one) |
@@ -49,6 +50,7 @@ Problems Solved by me..!!
 | ------- |
 | [0001-two-sum](https://github.com/nataraj2027/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nataraj2027/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/nataraj2027/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nataraj2027/Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/nataraj2027/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/nataraj2027/Leetcode/tree/master/0242-valid-anagram) |
