@@ -231,6 +231,7 @@ Problems Solved by me..!!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/nataraj2027/Leetcode/tree/master/0175-combine-two-tables) |
+| [1757-recyclable-and-low-fat-products](https://github.com/nataraj2027/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Design
 |  |
 | ------- |
